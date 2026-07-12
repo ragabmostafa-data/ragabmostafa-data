@@ -42,7 +42,6 @@ Business intelligence dashboard for e-commerce performance.
 
 ## 📫 Contact Me
 
-- 📧 Email: [rm395566@gmail.com](url)
-- 💼 LinkedIn:[www.linkedin.com/in/ragab-mostafa-9a850020b](url)
-- 💻 Portfolio: [https://canva.link/6qflegg3sj6sb1o](url)
--->
+- 📧 Email: [rm395566@gmail.com]
+- 💼 LinkedIn:[www.linkedin.com/in/ragab-mostafa-9a850020b]
+- 💻 Portfolio: [https://canva.link/6qflegg3sj6sb1o]

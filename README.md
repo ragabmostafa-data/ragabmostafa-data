@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋 I'm Ragab Mostafa
 
-<!--
-**ragabmostafa-data/ragabmostafa-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I am passionate about transforming raw data into meaningful insights using data analysis and visualization tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🚀 About Me
+
+- 📊 Aspiring Data Analyst
+- 📍 Cairo, Egypt
+- 💼 Interested in Data Analytics & Business Intelligence
+- 🌱 Currently improving my Power BI, SQL skills
+
+---
+
+## 🛠 Skills
+
+- Microsoft Excel
+- SQL
+- Power BI
+- DAX
+- Power Query
+- Data Cleaning
+- Data Visualization
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Superstore Sales Dashboard
+Power BI dashboard for analyzing sales performance.
+
+### 👥 HR Analytics Dashboard
+Interactive HR dashboard for workforce analysis.
+
+### 🛒 E-Commerce Sales Dashboard
+Business intelligence dashboard for e-commerce performance.
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [rm395566@gmail.com](url)
+- 💼 LinkedIn:[www.linkedin.com/in/ragab-mostafa-9a850020b](url)
+- 💻 Portfolio: [https://canva.link/6qflegg3sj6sb1o](url)
 -->

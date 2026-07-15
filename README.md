@@ -41,6 +41,8 @@ Business intelligence dashboard for e-commerce performance.
 ### 👟 Nike Sales Dashboard
 Power BI dashboard for analyzing sales performance.
 
+### 📡 Telco Customer Churn Dashboard
+Interactive Power BI dashboard for Analysis Telco Customer Churn
 ---
 
 ## 📫 Contact Me

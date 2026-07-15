@@ -38,6 +38,9 @@ Interactive HR dashboard for workforce analysis.
 ### 🛒 E-Commerce Sales Dashboard
 Business intelligence dashboard for e-commerce performance.
 
+### 👟 Nike Sales Dashboard
+Power BI dashboard for analyzing sales performance.
+
 ---
 
 ## 📫 Contact Me

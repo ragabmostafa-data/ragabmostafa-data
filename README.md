@@ -42,7 +42,9 @@ Business intelligence dashboard for e-commerce performance.
 Power BI dashboard for analyzing sales performance.
 
 ### 📡 Telco Customer Churn Dashboard
-Interactive Power BI dashboard for Analysis Telco Customer Churn
+Interactive Power BI dashboard for Analysis Telco Customer Churn.
+
+### 📊 Executive Financial for analyzing sales performance.
 ---
 
 ## 📫 Contact Me
